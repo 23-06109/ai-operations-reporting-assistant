@@ -1,0 +1,301 @@
+Activity_ID,Department,Responsible_Team,Activity_Type,Planned_Start,Planned_Finish,Actual_Finish,Status,Priority,Progress_Pct,Issue_Type,Last_Update_Date,Owner
+ACT-0001,Construction,CONST-A,Progress Update,2026-07-02,2026-07-12,2026-07-24,Completed,High,100,Approval Delay,2026-07-24,Team Lead A
+ACT-0002,Engineering,ENG-A,RFI Closure,2026-08-04,2026-08-26,2026-08-29,Completed,High,100,None,2026-08-28,Team Lead C
+ACT-0003,Project Controls,PC-A,Progress Update,2026-08-29,2026-09-14,,In Progress,High,95,None,2026-08-27,Team Lead D
+ACT-0004,Engineering,ENG-B,Technical Query,2026-06-06,2026-07-02,2026-07-09,Completed,High,100,Approval Delay,2026-07-09,Team Lead F
+ACT-0005,Construction,CONST-B,Punch Clearance,2026-08-30,2026-09-04,2026-09-01,Completed,Medium,100,Documentation,2026-08-31,Team Lead D
+ACT-0006,QA/QC,QA-B,Inspection Request,2026-07-18,2026-08-01,2026-07-29,Completed,Medium,100,Approval Delay,2026-07-25,Team Lead E
+ACT-0007,Project Controls,PC-A,Schedule Review,2026-07-19,2026-07-30,,On Hold,Medium,50,Documentation,2026-08-20,Team Lead A
+ACT-0008,Engineering,ENG-A,Technical Query,2026-07-22,2026-08-02,2026-08-15,Completed,Low,100,None,2026-08-13,Team Lead D
+ACT-0009,QA/QC,QA-B,Inspection Request,2026-07-04,2026-07-11,2026-07-14,Completed,Medium,100,None,2026-07-10,Team Lead E
+ACT-0010,QA/QC,QA-A,Inspection Request,2026-08-05,2026-08-23,2026-08-21,Completed,High,100,Approval Delay,2026-08-20,Team Lead F
+ACT-0011,QA/QC,QA-A,Quality Review,2026-07-19,2026-08-10,,On Hold,Medium,50,Documentation,2026-08-27,Team Lead A
+ACT-0012,Construction,CONST-B,Progress Update,2026-06-15,2026-06-27,2026-06-30,Completed,Medium,100,Manpower,2026-06-26,Team Lead E
+ACT-0013,Procurement,PROC-A,Material Status Update,2026-08-04,2026-08-26,2026-08-26,Completed,Medium,100,Documentation,2026-08-22,Team Lead E
+ACT-0014,Procurement,PROC-A,Vendor Follow-up,2026-06-03,2026-06-09,,In Progress,Low,95,None,2026-08-28,Team Lead B
+ACT-0015,Procurement,PROC-A,Material Delivery,2026-08-02,2026-08-07,,On Hold,Medium,20,Rework,2026-08-23,Team Lead E
+ACT-0016,Engineering,ENG-B,RFI Closure,2026-08-09,2026-09-05,,On Hold,High,30,Access Constraint,2026-08-15,Team Lead F
+ACT-0017,QA/QC,QA-B,Test Package,2026-07-02,2026-07-12,2026-07-24,Completed,High,100,Approval Delay,2026-07-23,Team Lead A
+ACT-0018,Engineering,ENG-A,RFI Closure,2026-06-09,2026-06-13,,In Progress,High,50,Manpower,2026-08-28,Team Lead B
+ACT-0019,Construction,CONST-B,Punch Clearance,2026-07-31,2026-08-28,2026-08-30,Completed,High,100,None,2026-08-27,Team Lead F
+ACT-0020,Engineering,ENG-A,Drawing Review,2026-07-22,2026-08-17,2026-08-19,Completed,Low,100,None,2026-08-18,Team Lead D
+ACT-0021,Engineering,ENG-A,Technical Query,2026-07-30,2026-08-09,,In Progress,High,95,Documentation,2026-08-19,Team Lead A
+ACT-0022,Engineering,ENG-A,Drawing Review,2026-07-01,2026-07-09,2026-07-16,Completed,Medium,100,None,2026-07-16,Team Lead A
+ACT-0023,Procurement,PROC-A,Vendor Follow-up,2026-07-07,2026-07-23,2026-08-04,Completed,Medium,100,None,2026-08-01,Team Lead C
+ACT-0024,Engineering,ENG-A,Drawing Review,2026-07-11,2026-07-15,2026-07-26,Completed,Medium,100,None,2026-07-25,Team Lead E
+ACT-0025,Engineering,ENG-A,Drawing Review,2026-08-16,2026-08-21,,In Progress,Medium,35,Material Delay,2026-08-18,Team Lead E
+ACT-0026,Construction,CONST-A,Site Preparation,2026-08-24,2026-09-14,,In Progress,Medium,55,Manpower,2026-08-29,Team Lead C
+ACT-0027,Engineering,ENG-B,RFI Closure,2026-08-25,2026-09-17,,In Progress,Medium,95,None,2026-08-18,Team Lead D
+ACT-0028,Construction,CONST-A,Field Installation,2026-08-08,2026-08-17,,In Progress,High,60,None,2026-08-18,Team Lead B
+ACT-0029,QA/QC,QA-A,Quality Review,2026-08-09,2026-09-03,,In Progress,Low,95,Material Delay,2026-08-22,Team Lead F
+ACT-0030,Project Controls,PC-A,KPI Update,2026-06-14,2026-06-21,2026-07-03,Completed,Low,100,None,2026-07-02,Team Lead E
+ACT-0031,Engineering,ENG-B,RFI Closure,2026-08-27,2026-09-19,,Not Started,Medium,0,None,2026-08-28,Team Lead D
+ACT-0032,Project Controls,PC-A,Progress Update,2026-07-13,2026-08-09,2026-08-09,Completed,Low,100,Approval Delay,2026-08-06,Team Lead D
+ACT-0033,Construction,CONST-A,Field Installation,2026-08-28,2026-09-04,,In Progress,Low,80,None,2026-08-24,Team Lead B
+ACT-0034,Engineering,ENG-B,Drawing Review,2026-07-16,2026-07-25,2026-07-31,Completed,Medium,100,Documentation,2026-07-27,Team Lead D
+ACT-0035,Procurement,PROC-A,Material Delivery,2026-06-21,2026-07-19,,In Progress,Low,25,Rework,2026-08-30,Team Lead C
+ACT-0036,Project Controls,PC-A,KPI Update,2026-07-02,2026-07-13,2026-07-20,Completed,Medium,100,Rework,2026-07-20,Team Lead B
+ACT-0037,Engineering,ENG-B,Technical Query,2026-07-10,2026-08-07,,In Progress,Medium,85,Approval Delay,2026-08-29,Team Lead C
+ACT-0038,Procurement,PROC-A,Vendor Follow-up,2026-08-22,2026-09-10,,In Progress,Low,75,Access Constraint,2026-08-27,Team Lead A
+ACT-0039,Procurement,PROC-A,Material Delivery,2026-08-14,2026-08-25,2026-08-31,Completed,Medium,100,None,2026-08-29,Team Lead E
+ACT-0040,Engineering,ENG-A,Technical Query,2026-06-06,2026-07-01,2026-07-13,Completed,Medium,100,None,2026-07-12,Team Lead A
+ACT-0041,Procurement,PROC-A,Material Status Update,2026-07-11,2026-08-04,,In Progress,Medium,55,Approval Delay,2026-08-24,Team Lead D
+ACT-0042,QA/QC,QA-B,Inspection Request,2026-06-25,2026-07-11,2026-07-11,Completed,Medium,100,Approval Delay,2026-07-07,Team Lead D
+ACT-0043,Construction,CONST-A,Progress Update,2026-07-07,2026-07-16,2026-07-21,Completed,Medium,100,None,2026-07-18,Team Lead F
+ACT-0044,Engineering,ENG-B,RFI Closure,2026-08-24,2026-08-29,2026-08-30,Completed,Medium,100,Rework,2026-08-30,Team Lead B
+ACT-0045,Construction,CONST-A,Punch Clearance,2026-06-19,2026-06-22,2026-07-06,Completed,Low,100,None,2026-07-06,Team Lead F
+ACT-0046,Construction,CONST-B,Site Preparation,2026-07-22,2026-08-01,2026-07-30,Completed,Medium,100,None,2026-07-27,Team Lead F
+ACT-0047,Construction,CONST-A,Punch Clearance,2026-06-16,2026-07-03,2026-07-14,Completed,Medium,100,Approval Delay,2026-07-10,Team Lead D
+ACT-0048,Construction,CONST-B,Site Preparation,2026-06-21,2026-07-17,,In Progress,Medium,95,Documentation,2026-08-29,Team Lead C
+ACT-0049,Project Controls,PC-A,KPI Update,2026-07-01,2026-07-12,2026-07-14,Completed,Medium,100,None,2026-07-12,Team Lead E
+ACT-0050,Engineering,ENG-A,RFI Closure,2026-07-20,2026-08-14,2026-08-22,Completed,High,100,None,2026-08-19,Team Lead D
+ACT-0051,QA/QC,QA-A,Quality Review,2026-07-20,2026-08-16,2026-08-29,Completed,Medium,100,None,2026-08-26,Team Lead C
+ACT-0052,QA/QC,QA-B,Quality Review,2026-08-08,2026-09-03,,On Hold,Low,20,Approval Delay,2026-08-12,Team Lead D
+ACT-0053,Construction,CONST-B,Progress Update,2026-08-25,2026-09-18,,Not Started,Medium,5,Access Constraint,2026-08-25,Team Lead E
+ACT-0054,Engineering,ENG-B,Drawing Review,2026-06-11,2026-07-04,2026-07-04,Completed,Low,100,None,2026-07-04,Team Lead C
+ACT-0055,Engineering,ENG-B,Technical Query,2026-07-19,2026-07-30,,In Progress,Low,55,None,2026-08-19,Team Lead A
+ACT-0056,Project Controls,PC-A,Schedule Review,2026-06-29,2026-07-22,2026-07-18,Completed,Low,100,Documentation,2026-07-18,Team Lead B
+ACT-0057,Project Controls,PC-A,Progress Update,2026-06-17,2026-07-05,2026-07-06,Completed,Medium,100,Material Delay,2026-07-03,Team Lead C
+ACT-0058,Engineering,ENG-A,RFI Closure,2026-07-10,2026-07-16,2026-07-29,Completed,Low,100,None,2026-07-26,Team Lead F
+ACT-0059,Engineering,ENG-A,Drawing Review,2026-08-29,2026-09-25,,In Progress,Medium,95,Documentation,2026-08-31,Team Lead E
+ACT-0060,Project Controls,PC-A,KPI Update,2026-07-25,2026-08-18,2026-08-23,Completed,Medium,100,Rework,2026-08-23,Team Lead D
+ACT-0061,Engineering,ENG-B,Design Update,2026-08-30,2026-09-06,,In Progress,Medium,85,Manpower,2026-08-28,Team Lead E
+ACT-0062,Project Controls,PC-A,Schedule Review,2026-08-15,2026-08-26,2026-08-23,Completed,Medium,100,Documentation,2026-08-21,Team Lead B
+ACT-0063,Project Controls,PC-A,Schedule Review,2026-06-04,2026-06-22,,In Progress,High,50,Documentation,2026-08-27,Team Lead C
+ACT-0064,QA/QC,QA-B,Test Package,2026-08-06,2026-08-15,2026-08-25,Completed,Medium,100,Manpower,2026-08-21,Team Lead F
+ACT-0065,Construction,CONST-B,Site Preparation,2026-06-03,2026-06-08,2026-06-10,Completed,Medium,100,Material Delay,2026-06-08,Team Lead C
+ACT-0066,Construction,CONST-B,Site Preparation,2026-08-10,2026-08-23,2026-08-27,Completed,Medium,100,None,2026-08-25,Team Lead F
+ACT-0067,Engineering,ENG-A,RFI Closure,2026-06-25,2026-07-04,,In Progress,Medium,80,Material Delay,2026-08-20,Team Lead C
+ACT-0068,Procurement,PROC-A,Vendor Follow-up,2026-06-30,2026-07-14,2026-07-26,Completed,High,100,None,2026-07-25,Team Lead A
+ACT-0069,Construction,CONST-A,Site Preparation,2026-06-14,2026-06-17,2026-06-26,Completed,Medium,100,None,2026-06-24,Team Lead A
+ACT-0070,QA/QC,QA-B,Test Package,2026-06-09,2026-06-24,2026-06-20,Completed,Medium,100,None,2026-06-19,Team Lead E
+ACT-0071,Procurement,PROC-A,Material Delivery,2026-06-16,2026-07-06,,In Progress,Medium,95,None,2026-08-23,Team Lead E
+ACT-0072,QA/QC,QA-B,Punch Clearance,2026-08-15,2026-08-31,2026-09-01,Completed,Medium,100,Approval Delay,2026-08-31,Team Lead C
+ACT-0073,Construction,CONST-A,Punch Clearance,2026-06-23,2026-07-13,2026-07-22,Completed,High,100,None,2026-07-18,Team Lead A
+ACT-0074,Engineering,ENG-B,Design Update,2026-06-10,2026-07-04,2026-07-17,Completed,Medium,100,None,2026-07-16,Team Lead E
+ACT-0075,Engineering,ENG-A,Technical Query,2026-06-19,2026-06-24,2026-07-08,Completed,Low,100,Documentation,2026-07-04,Team Lead D
+ACT-0076,Engineering,ENG-B,Design Update,2026-07-05,2026-07-24,2026-08-07,Completed,Medium,100,Documentation,2026-08-07,Team Lead F
+ACT-0077,QA/QC,QA-B,Test Package,2026-06-12,2026-06-22,,On Hold,Low,50,Access Constraint,2026-08-27,Team Lead F
+ACT-0078,Project Controls,PC-A,Progress Update,2026-07-31,2026-08-19,,In Progress,Low,40,Material Delay,2026-08-23,Team Lead D
+ACT-0079,Procurement,PROC-A,Vendor Follow-up,2026-07-23,2026-08-05,2026-08-05,Completed,High,100,None,2026-08-03,Team Lead D
+ACT-0080,QA/QC,QA-B,Test Package,2026-07-29,2026-08-03,2026-08-10,Completed,Medium,100,Rework,2026-08-06,Team Lead A
+ACT-0081,Construction,CONST-B,Site Preparation,2026-06-07,2026-06-16,2026-06-26,Completed,Medium,100,Manpower,2026-06-23,Team Lead B
+ACT-0082,QA/QC,QA-A,Punch Clearance,2026-07-27,2026-08-21,,In Progress,High,85,Documentation,2026-08-23,Team Lead F
+ACT-0083,Engineering,ENG-A,Design Update,2026-06-12,2026-06-22,,On Hold,Low,40,Rework,2026-08-24,Team Lead B
+ACT-0084,Construction,CONST-B,Progress Update,2026-07-24,2026-08-11,,On Hold,Medium,50,Material Delay,2026-08-23,Team Lead E
+ACT-0085,Construction,CONST-A,Field Installation,2026-07-06,2026-08-02,,In Progress,Medium,95,None,2026-08-24,Team Lead A
+ACT-0086,QA/QC,QA-B,Quality Review,2026-06-20,2026-07-07,2026-07-19,Completed,Medium,100,None,2026-07-15,Team Lead C
+ACT-0087,Procurement,PROC-A,Material Status Update,2026-07-20,2026-07-30,,In Progress,Medium,60,Material Delay,2026-08-21,Team Lead D
+ACT-0088,QA/QC,QA-A,Quality Review,2026-06-05,2026-06-12,2026-06-10,Completed,Medium,100,None,2026-06-07,Team Lead D
+ACT-0089,Engineering,ENG-A,Design Update,2026-08-23,2026-08-30,2026-08-30,Completed,Low,100,Material Delay,2026-08-26,Team Lead F
+ACT-0090,Engineering,ENG-B,Design Update,2026-07-11,2026-08-03,2026-08-15,Completed,Low,100,Approval Delay,2026-08-15,Team Lead B
+ACT-0091,Construction,CONST-B,Punch Clearance,2026-06-12,2026-06-28,,On Hold,Low,60,Manpower,2026-08-24,Team Lead F
+ACT-0092,QA/QC,QA-A,Test Package,2026-07-12,2026-08-09,2026-08-17,Completed,Medium,100,None,2026-08-16,Team Lead D
+ACT-0093,Construction,CONST-A,Punch Clearance,2026-06-23,2026-06-28,2026-06-30,Completed,Medium,100,Documentation,2026-06-27,Team Lead B
+ACT-0094,Engineering,ENG-B,Design Update,2026-07-03,2026-07-27,2026-07-31,Completed,Low,100,None,2026-07-27,Team Lead D
+ACT-0095,Procurement,PROC-A,Material Status Update,2026-07-25,2026-08-19,2026-08-20,Completed,Low,100,Rework,2026-08-17,Team Lead A
+ACT-0096,Engineering,ENG-B,Technical Query,2026-08-29,2026-09-10,2026-08-30,Completed,Low,100,Approval Delay,2026-08-30,Team Lead F
+ACT-0097,Project Controls,PC-A,KPI Update,2026-08-03,2026-08-15,,In Progress,Medium,95,None,2026-08-27,Team Lead B
+ACT-0098,Construction,CONST-A,Field Installation,2026-08-20,2026-09-12,2026-08-30,Completed,Low,100,None,2026-08-29,Team Lead C
+ACT-0099,QA/QC,QA-B,Inspection Request,2026-06-26,2026-07-03,,In Progress,Low,60,Material Delay,2026-08-24,Team Lead C
+ACT-0100,Project Controls,PC-A,Schedule Review,2026-07-08,2026-08-03,,In Progress,Low,70,None,2026-08-31,Team Lead B
+ACT-0101,Procurement,PROC-A,Material Status Update,2026-07-17,2026-07-22,,In Progress,High,75,Material Delay,2026-08-31,Team Lead F
+ACT-0102,Project Controls,PC-A,KPI Update,2026-07-19,2026-08-11,,On Hold,High,20,Approval Delay,2026-08-12,Team Lead E
+ACT-0103,QA/QC,QA-A,Test Package,2026-08-21,2026-09-07,,Not Started,Medium,5,None,2026-08-26,Team Lead A
+ACT-0104,QA/QC,QA-B,Test Package,2026-06-13,2026-06-23,,In Progress,High,70,Rework,2026-08-27,Team Lead F
+ACT-0105,Construction,CONST-B,Punch Clearance,2026-07-24,2026-08-16,2026-08-24,Completed,Medium,100,None,2026-08-22,Team Lead C
+ACT-0106,Engineering,ENG-B,RFI Closure,2026-07-17,2026-07-23,,On Hold,Medium,60,Approval Delay,2026-08-16,Team Lead C
+ACT-0107,Engineering,ENG-A,Design Update,2026-06-12,2026-07-06,2026-07-01,Completed,Medium,100,Rework,2026-07-01,Team Lead B
+ACT-0108,Procurement,PROC-A,Material Delivery,2026-08-10,2026-08-19,,In Progress,Low,50,Documentation,2026-08-27,Team Lead E
+ACT-0109,Engineering,ENG-A,RFI Closure,2026-08-09,2026-08-20,,In Progress,High,25,None,2026-08-30,Team Lead B
+ACT-0110,Construction,CONST-A,Punch Clearance,2026-07-04,2026-07-08,2026-07-06,Completed,Medium,100,None,2026-07-06,Team Lead C
+ACT-0111,Construction,CONST-A,Site Preparation,2026-08-04,2026-08-14,,On Hold,High,70,Manpower,2026-08-18,Team Lead A
+ACT-0112,Engineering,ENG-B,Design Update,2026-07-25,2026-08-18,2026-08-27,Completed,Medium,100,Documentation,2026-08-27,Team Lead C
+ACT-0113,Construction,CONST-A,Punch Clearance,2026-07-06,2026-07-28,2026-08-02,Completed,Medium,100,Access Constraint,2026-07-30,Team Lead E
+ACT-0114,QA/QC,QA-B,Test Package,2026-08-29,2026-09-04,,Not Started,Medium,10,Material Delay,2026-08-23,Team Lead B
+ACT-0115,QA/QC,QA-B,Quality Review,2026-07-24,2026-08-19,2026-08-22,Completed,Medium,100,Documentation,2026-08-20,Team Lead F
+ACT-0116,Procurement,PROC-A,Material Delivery,2026-06-11,2026-06-16,2026-06-22,Completed,Medium,100,Approval Delay,2026-06-21,Team Lead E
+ACT-0117,Procurement,PROC-A,Material Status Update,2026-06-16,2026-07-02,2026-07-10,Completed,Medium,100,Access Constraint,2026-07-10,Team Lead E
+ACT-0118,QA/QC,QA-A,Inspection Request,2026-06-20,2026-07-14,2026-07-20,Completed,Low,100,None,2026-07-16,Team Lead C
+ACT-0119,Construction,CONST-B,Field Installation,2026-08-17,2026-09-10,,Not Started,Medium,0,Rework,2026-08-21,Team Lead C
+ACT-0120,Procurement,PROC-A,Material Delivery,2026-06-24,2026-07-01,2026-06-30,Completed,Medium,100,None,2026-06-30,Team Lead E
+ACT-0121,Engineering,ENG-B,Design Update,2026-07-14,2026-07-22,2026-08-04,Completed,Medium,100,None,2026-07-31,Team Lead A
+ACT-0122,Engineering,ENG-A,Drawing Review,2026-07-05,2026-07-22,2026-07-31,Completed,Medium,100,None,2026-07-28,Team Lead E
+ACT-0123,Engineering,ENG-B,Drawing Review,2026-07-07,2026-07-31,2026-08-04,Completed,Medium,100,None,2026-08-04,Team Lead E
+ACT-0124,Engineering,ENG-A,Technical Query,2026-06-28,2026-07-25,2026-07-30,Completed,Medium,100,None,2026-07-30,Team Lead F
+ACT-0125,QA/QC,QA-A,Quality Review,2026-08-08,2026-09-02,,In Progress,Medium,85,Approval Delay,2026-08-20,Team Lead D
+ACT-0126,Procurement,PROC-A,Vendor Follow-up,2026-06-03,2026-06-20,,In Progress,Low,80,Manpower,2026-08-26,Team Lead F
+ACT-0127,Construction,CONST-B,Field Installation,2026-07-22,2026-07-25,,On Hold,High,50,Documentation,2026-08-13,Team Lead C
+ACT-0128,Engineering,ENG-A,RFI Closure,2026-07-26,2026-08-16,2026-08-20,Completed,High,100,None,2026-08-18,Team Lead B
+ACT-0129,Engineering,ENG-A,RFI Closure,2026-07-15,2026-07-29,,In Progress,Low,40,None,2026-08-29,Team Lead C
+ACT-0130,Engineering,ENG-A,Drawing Review,2026-06-23,2026-07-20,2026-08-02,Completed,Medium,100,None,2026-07-29,Team Lead E
+ACT-0131,Construction,CONST-B,Progress Update,2026-06-20,2026-07-07,2026-07-11,Completed,Medium,100,Approval Delay,2026-07-09,Team Lead C
+ACT-0132,Construction,CONST-B,Site Preparation,2026-07-28,2026-08-01,2026-07-29,Completed,Low,100,Approval Delay,2026-07-29,Team Lead E
+ACT-0133,QA/QC,QA-A,Quality Review,2026-08-13,2026-09-05,,In Progress,Medium,75,Access Constraint,2026-08-30,Team Lead D
+ACT-0134,Engineering,ENG-B,Drawing Review,2026-08-04,2026-08-27,2026-08-29,Completed,Medium,100,None,2026-08-25,Team Lead B
+ACT-0135,QA/QC,QA-B,Quality Review,2026-07-23,2026-08-19,2026-08-24,Completed,Medium,100,None,2026-08-24,Team Lead E
+ACT-0136,Construction,CONST-B,Progress Update,2026-08-24,2026-09-15,,Not Started,Medium,10,Documentation,2026-08-25,Team Lead C
+ACT-0137,Procurement,PROC-A,Material Delivery,2026-08-16,2026-09-10,,Not Started,Medium,5,Documentation,2026-08-19,Team Lead F
+ACT-0138,Construction,CONST-A,Site Preparation,2026-08-05,2026-08-19,2026-08-20,Completed,Medium,100,Documentation,2026-08-18,Team Lead D
+ACT-0139,Engineering,ENG-A,RFI Closure,2026-06-10,2026-06-22,,In Progress,High,95,Documentation,2026-08-24,Team Lead E
+ACT-0140,Engineering,ENG-B,RFI Closure,2026-08-16,2026-08-31,2026-08-31,Completed,High,100,None,2026-08-28,Team Lead C
+ACT-0141,Construction,CONST-A,Site Preparation,2026-08-18,2026-08-30,,In Progress,Low,50,None,2026-08-24,Team Lead D
+ACT-0142,Procurement,PROC-A,Vendor Follow-up,2026-08-26,2026-09-16,,Not Started,Medium,0,Material Delay,2026-08-17,Team Lead D
+ACT-0143,Procurement,PROC-A,Material Status Update,2026-06-18,2026-06-29,2026-07-05,Completed,Medium,100,Documentation,2026-07-01,Team Lead F
+ACT-0144,Project Controls,PC-A,Schedule Review,2026-06-11,2026-07-08,2026-07-19,Completed,Medium,100,Rework,2026-07-18,Team Lead A
+ACT-0145,Procurement,PROC-A,Vendor Follow-up,2026-07-15,2026-07-18,2026-07-24,Completed,Medium,100,None,2026-07-23,Team Lead A
+ACT-0146,QA/QC,QA-A,Punch Clearance,2026-06-13,2026-07-08,2026-07-07,Completed,Low,100,None,2026-07-07,Team Lead D
+ACT-0147,Construction,CONST-A,Site Preparation,2026-07-28,2026-08-19,2026-08-22,Completed,High,100,Rework,2026-08-21,Team Lead E
+ACT-0148,Procurement,PROC-A,Material Delivery,2026-07-07,2026-07-17,2026-07-25,Completed,High,100,None,2026-07-21,Team Lead A
+ACT-0149,Project Controls,PC-A,KPI Update,2026-08-08,2026-08-11,2026-08-10,Completed,Medium,100,None,2026-08-08,Team Lead E
+ACT-0150,QA/QC,QA-B,Inspection Request,2026-08-25,2026-09-18,2026-09-01,Completed,Low,100,Documentation,2026-08-29,Team Lead A
+ACT-0151,Construction,CONST-B,Progress Update,2026-06-03,2026-06-17,,In Progress,Medium,90,Manpower,2026-08-22,Team Lead E
+ACT-0152,Project Controls,PC-A,Progress Update,2026-06-06,2026-06-20,2026-06-20,Completed,Low,100,Access Constraint,2026-06-17,Team Lead D
+ACT-0153,Construction,CONST-A,Field Installation,2026-08-31,2026-09-27,,Not Started,High,0,Documentation,2026-08-28,Team Lead A
+ACT-0154,QA/QC,QA-B,Quality Review,2026-08-09,2026-08-27,2026-08-28,Completed,Low,100,None,2026-08-26,Team Lead A
+ACT-0155,Procurement,PROC-A,Vendor Follow-up,2026-06-16,2026-07-14,2026-07-23,Completed,Low,100,None,2026-07-20,Team Lead B
+ACT-0156,Construction,CONST-B,Progress Update,2026-08-06,2026-08-17,,In Progress,Medium,35,Manpower,2026-08-26,Team Lead B
+ACT-0157,Construction,CONST-B,Field Installation,2026-06-11,2026-06-24,2026-07-08,Completed,Medium,100,None,2026-07-05,Team Lead D
+ACT-0158,QA/QC,QA-A,Punch Clearance,2026-08-18,2026-09-03,,In Progress,Low,25,Rework,2026-08-31,Team Lead D
+ACT-0159,QA/QC,QA-A,Test Package,2026-06-19,2026-07-11,2026-07-10,Completed,Medium,100,None,2026-07-10,Team Lead F
+ACT-0160,QA/QC,QA-B,Test Package,2026-08-17,2026-08-24,,In Progress,Low,60,Rework,2026-08-25,Team Lead E
+ACT-0161,Engineering,ENG-B,Design Update,2026-07-11,2026-08-03,2026-07-29,Completed,Low,100,None,2026-07-28,Team Lead D
+ACT-0162,Procurement,PROC-A,Vendor Follow-up,2026-07-04,2026-07-29,2026-08-02,Completed,Low,100,None,2026-07-30,Team Lead B
+ACT-0163,Procurement,PROC-A,Material Delivery,2026-08-31,2026-09-17,,Not Started,Low,0,Rework,2026-08-18,Team Lead E
+ACT-0164,Construction,CONST-B,Punch Clearance,2026-08-31,2026-09-25,,Not Started,Medium,0,None,2026-08-22,Team Lead B
+ACT-0165,Project Controls,PC-A,Schedule Review,2026-06-04,2026-06-18,2026-06-30,Completed,Medium,100,Approval Delay,2026-06-29,Team Lead A
+ACT-0166,Engineering,ENG-B,Design Update,2026-08-07,2026-08-23,,In Progress,Low,35,Access Constraint,2026-08-30,Team Lead F
+ACT-0167,Engineering,ENG-B,Technical Query,2026-06-17,2026-07-14,2026-07-13,Completed,Medium,100,None,2026-07-10,Team Lead A
+ACT-0168,Project Controls,PC-A,Schedule Review,2026-06-22,2026-06-30,2026-07-06,Completed,Medium,100,Documentation,2026-07-02,Team Lead A
+ACT-0169,QA/QC,QA-B,Inspection Request,2026-08-20,2026-09-01,,In Progress,High,85,Manpower,2026-08-30,Team Lead E
+ACT-0170,Engineering,ENG-B,Drawing Review,2026-06-04,2026-06-09,2026-06-22,Completed,Medium,100,Material Delay,2026-06-20,Team Lead E
+ACT-0171,QA/QC,QA-A,Quality Review,2026-08-20,2026-09-09,,In Progress,Low,70,Documentation,2026-08-29,Team Lead F
+ACT-0172,QA/QC,QA-B,Test Package,2026-08-28,2026-09-01,,In Progress,Medium,70,Approval Delay,2026-08-29,Team Lead B
+ACT-0173,QA/QC,QA-B,Punch Clearance,2026-07-22,2026-07-29,,In Progress,Medium,35,None,2026-08-27,Team Lead A
+ACT-0174,QA/QC,QA-A,Inspection Request,2026-06-13,2026-06-17,2026-07-01,Completed,Medium,100,None,2026-06-28,Team Lead B
+ACT-0175,Project Controls,PC-A,Progress Update,2026-06-21,2026-07-09,,On Hold,Medium,30,Approval Delay,2026-08-12,Team Lead D
+ACT-0176,Construction,CONST-A,Punch Clearance,2026-08-14,2026-08-28,2026-08-29,Completed,Medium,100,None,2026-08-27,Team Lead A
+ACT-0177,QA/QC,QA-B,Punch Clearance,2026-07-22,2026-08-05,2026-08-17,Completed,High,100,None,2026-08-16,Team Lead C
+ACT-0178,Engineering,ENG-B,Technical Query,2026-08-19,2026-09-12,,In Progress,High,35,Approval Delay,2026-08-26,Team Lead C
+ACT-0179,Construction,CONST-B,Punch Clearance,2026-06-26,2026-07-18,2026-07-14,Completed,Medium,100,None,2026-07-14,Team Lead C
+ACT-0180,Project Controls,PC-A,Progress Update,2026-08-17,2026-09-05,2026-08-31,Completed,Low,100,Access Constraint,2026-08-28,Team Lead F
+ACT-0181,Project Controls,PC-A,KPI Update,2026-08-05,2026-08-25,,In Progress,Medium,70,None,2026-08-19,Team Lead C
+ACT-0182,Construction,CONST-B,Progress Update,2026-08-28,2026-09-20,2026-08-31,Completed,Medium,100,Approval Delay,2026-08-31,Team Lead B
+ACT-0183,Construction,CONST-B,Punch Clearance,2026-08-27,2026-09-06,2026-08-31,Completed,Low,100,None,2026-08-31,Team Lead D
+ACT-0184,Engineering,ENG-A,Design Update,2026-08-04,2026-08-31,,In Progress,Medium,90,None,2026-08-21,Team Lead B
+ACT-0185,Construction,CONST-B,Site Preparation,2026-08-07,2026-08-22,2026-08-30,Completed,High,100,None,2026-08-26,Team Lead F
+ACT-0186,Construction,CONST-B,Site Preparation,2026-06-25,2026-07-05,2026-07-09,Completed,Medium,100,Material Delay,2026-07-07,Team Lead F
+ACT-0187,Construction,CONST-B,Site Preparation,2026-07-15,2026-08-04,,In Progress,Low,55,None,2026-08-28,Team Lead F
+ACT-0188,Construction,CONST-B,Progress Update,2026-06-19,2026-07-01,2026-06-28,Completed,Low,100,Documentation,2026-06-26,Team Lead F
+ACT-0189,QA/QC,QA-B,Inspection Request,2026-06-26,2026-07-16,2026-07-19,Completed,Medium,100,None,2026-07-18,Team Lead F
+ACT-0190,Construction,CONST-A,Field Installation,2026-08-25,2026-09-13,,In Progress,Medium,35,Approval Delay,2026-08-26,Team Lead D
+ACT-0191,Engineering,ENG-A,Drawing Review,2026-08-10,2026-08-18,2026-08-28,Completed,Low,100,Material Delay,2026-08-25,Team Lead C
+ACT-0192,QA/QC,QA-A,Test Package,2026-08-23,2026-09-13,,In Progress,Medium,25,Access Constraint,2026-08-18,Team Lead D
+ACT-0193,Procurement,PROC-A,Material Delivery,2026-07-21,2026-08-18,,In Progress,Low,55,None,2026-08-18,Team Lead C
+ACT-0194,Construction,CONST-A,Progress Update,2026-07-07,2026-07-24,,On Hold,Medium,40,Documentation,2026-08-23,Team Lead D
+ACT-0195,QA/QC,QA-A,Punch Clearance,2026-06-21,2026-07-17,2026-07-17,Completed,Medium,100,Manpower,2026-07-17,Team Lead C
+ACT-0196,Construction,CONST-A,Punch Clearance,2026-08-18,2026-09-10,,Not Started,Low,10,None,2026-08-19,Team Lead F
+ACT-0197,Engineering,ENG-A,Design Update,2026-07-12,2026-07-22,2026-07-31,Completed,Medium,100,Documentation,2026-07-29,Team Lead C
+ACT-0198,Construction,CONST-A,Progress Update,2026-08-23,2026-09-06,,On Hold,High,10,Material Delay,2026-08-13,Team Lead D
+ACT-0199,Construction,CONST-B,Field Installation,2026-08-21,2026-09-02,,In Progress,Medium,40,None,2026-08-25,Team Lead F
+ACT-0200,Procurement,PROC-A,Vendor Follow-up,2026-08-29,2026-09-18,,Not Started,Low,0,Rework,2026-08-22,Team Lead E
+ACT-0201,Procurement,PROC-A,Material Status Update,2026-07-28,2026-08-16,2026-08-29,Completed,High,100,None,2026-08-29,Team Lead E
+ACT-0202,Procurement,PROC-A,Material Status Update,2026-08-08,2026-08-15,2026-08-24,Completed,Low,100,Material Delay,2026-08-24,Team Lead F
+ACT-0203,Construction,CONST-A,Site Preparation,2026-06-08,2026-06-25,2026-07-08,Completed,Medium,100,Approval Delay,2026-07-08,Team Lead F
+ACT-0204,Project Controls,PC-A,Schedule Review,2026-07-03,2026-07-06,,In Progress,Medium,25,Approval Delay,2026-08-26,Team Lead A
+ACT-0205,Construction,CONST-A,Field Installation,2026-07-31,2026-08-04,2026-08-03,Completed,High,100,None,2026-07-31,Team Lead D
+ACT-0206,QA/QC,QA-B,Quality Review,2026-06-11,2026-07-05,,On Hold,Low,20,Approval Delay,2026-08-16,Team Lead E
+ACT-0207,QA/QC,QA-A,Inspection Request,2026-06-01,2026-06-28,2026-07-10,Completed,Medium,100,None,2026-07-07,Team Lead B
+ACT-0208,Engineering,ENG-B,RFI Closure,2026-07-06,2026-07-15,,In Progress,Medium,35,Documentation,2026-09-01,Team Lead D
+ACT-0209,Construction,CONST-A,Punch Clearance,2026-06-27,2026-07-02,2026-07-16,Completed,High,100,None,2026-07-16,Team Lead A
+ACT-0210,QA/QC,QA-A,Inspection Request,2026-06-08,2026-06-15,2026-06-28,Completed,Medium,100,Approval Delay,2026-06-26,Team Lead F
+ACT-0211,Project Controls,PC-A,Schedule Review,2026-06-19,2026-07-13,2026-07-16,Completed,Medium,100,Approval Delay,2026-07-16,Team Lead E
+ACT-0212,Procurement,PROC-A,Material Status Update,2026-08-26,2026-09-11,,In Progress,High,60,Rework,2026-08-22,Team Lead E
+ACT-0213,QA/QC,QA-B,Quality Review,2026-06-20,2026-07-02,2026-07-12,Completed,Low,100,Rework,2026-07-11,Team Lead C
+ACT-0214,Procurement,PROC-A,Vendor Follow-up,2026-06-08,2026-06-28,2026-07-09,Completed,Medium,100,None,2026-07-08,Team Lead C
+ACT-0215,Engineering,ENG-A,Design Update,2026-07-18,2026-07-23,2026-07-19,Completed,Low,100,None,2026-07-17,Team Lead E
+ACT-0216,Construction,CONST-A,Punch Clearance,2026-08-15,2026-09-10,,On Hold,High,20,Material Delay,2026-08-17,Team Lead A
+ACT-0217,Engineering,ENG-A,Drawing Review,2026-08-01,2026-08-11,2026-08-18,Completed,Medium,100,Approval Delay,2026-08-17,Team Lead C
+ACT-0218,QA/QC,QA-B,Punch Clearance,2026-07-04,2026-07-18,2026-07-16,Completed,Medium,100,Manpower,2026-07-13,Team Lead C
+ACT-0219,Procurement,PROC-A,Vendor Follow-up,2026-07-23,2026-07-27,2026-07-26,Completed,Medium,100,None,2026-07-26,Team Lead E
+ACT-0220,Construction,CONST-B,Progress Update,2026-06-20,2026-06-29,2026-07-01,Completed,Medium,100,Approval Delay,2026-06-28,Team Lead F
+ACT-0221,QA/QC,QA-B,Quality Review,2026-07-29,2026-08-06,,In Progress,Medium,40,Material Delay,2026-08-21,Team Lead B
+ACT-0222,Procurement,PROC-A,Material Status Update,2026-06-05,2026-06-10,,On Hold,Medium,70,Material Delay,2026-08-27,Team Lead F
+ACT-0223,Engineering,ENG-A,Drawing Review,2026-06-28,2026-07-17,2026-07-31,Completed,High,100,Material Delay,2026-07-28,Team Lead A
+ACT-0224,Engineering,ENG-B,Drawing Review,2026-06-03,2026-06-22,,In Progress,Medium,55,Material Delay,2026-09-01,Team Lead F
+ACT-0225,Construction,CONST-A,Field Installation,2026-06-13,2026-07-02,2026-07-13,Completed,High,100,Rework,2026-07-11,Team Lead C
+ACT-0226,Project Controls,PC-A,Schedule Review,2026-07-22,2026-08-08,2026-08-10,Completed,Low,100,Material Delay,2026-08-08,Team Lead A
+ACT-0227,Construction,CONST-A,Field Installation,2026-07-22,2026-08-06,2026-08-01,Completed,Medium,100,None,2026-07-31,Team Lead D
+ACT-0228,Construction,CONST-B,Field Installation,2026-08-07,2026-08-11,2026-08-24,Completed,Low,100,None,2026-08-21,Team Lead A
+ACT-0229,Construction,CONST-B,Field Installation,2026-06-23,2026-07-06,2026-07-05,Completed,High,100,Documentation,2026-07-02,Team Lead C
+ACT-0230,Engineering,ENG-A,Design Update,2026-08-26,2026-09-15,,In Progress,Low,40,Access Constraint,2026-08-20,Team Lead F
+ACT-0231,Engineering,ENG-B,Drawing Review,2026-06-13,2026-06-29,2026-07-13,Completed,High,100,Documentation,2026-07-09,Team Lead D
+ACT-0232,Procurement,PROC-A,Material Delivery,2026-08-21,2026-09-01,,Not Started,Medium,0,Material Delay,2026-08-18,Team Lead D
+ACT-0233,QA/QC,QA-B,Test Package,2026-08-19,2026-08-31,,In Progress,Medium,35,None,2026-08-28,Team Lead F
+ACT-0234,Project Controls,PC-A,KPI Update,2026-07-20,2026-08-02,2026-08-06,Completed,High,100,None,2026-08-03,Team Lead C
+ACT-0235,Engineering,ENG-A,RFI Closure,2026-07-26,2026-08-12,2026-08-10,Completed,Medium,100,None,2026-08-10,Team Lead E
+ACT-0236,Engineering,ENG-B,Design Update,2026-06-02,2026-06-14,2026-06-26,Completed,Low,100,Approval Delay,2026-06-25,Team Lead B
+ACT-0237,Construction,CONST-A,Punch Clearance,2026-07-05,2026-07-17,2026-07-17,Completed,High,100,None,2026-07-14,Team Lead C
+ACT-0238,Construction,CONST-A,Progress Update,2026-07-03,2026-07-13,,In Progress,Medium,80,Material Delay,2026-08-29,Team Lead B
+ACT-0239,QA/QC,QA-B,Punch Clearance,2026-08-19,2026-09-03,,Not Started,Medium,0,Documentation,2026-08-16,Team Lead F
+ACT-0240,Procurement,PROC-A,Vendor Follow-up,2026-07-12,2026-08-03,,On Hold,High,30,Access Constraint,2026-08-22,Team Lead C
+ACT-0241,QA/QC,QA-B,Inspection Request,2026-07-12,2026-07-27,2026-08-02,Completed,Low,100,Documentation,2026-08-02,Team Lead B
+ACT-0242,Construction,CONST-A,Field Installation,2026-07-30,2026-08-24,2026-08-21,Completed,Low,100,Material Delay,2026-08-18,Team Lead B
+ACT-0243,Construction,CONST-A,Progress Update,2026-08-24,2026-08-31,,In Progress,Low,35,Access Constraint,2026-08-25,Team Lead D
+ACT-0244,Construction,CONST-B,Field Installation,2026-07-17,2026-08-11,,In Progress,Medium,85,None,2026-08-18,Team Lead B
+ACT-0245,Construction,CONST-B,Punch Clearance,2026-08-22,2026-09-13,2026-08-30,Completed,Low,100,None,2026-08-27,Team Lead A
+ACT-0246,QA/QC,QA-A,Quality Review,2026-07-18,2026-08-02,2026-08-13,Completed,Medium,100,None,2026-08-12,Team Lead A
+ACT-0247,Construction,CONST-B,Site Preparation,2026-06-11,2026-06-17,,In Progress,Medium,60,Approval Delay,2026-08-28,Team Lead B
+ACT-0248,Construction,CONST-B,Site Preparation,2026-06-13,2026-06-30,,In Progress,Medium,35,None,2026-08-28,Team Lead F
+ACT-0249,Engineering,ENG-B,Drawing Review,2026-08-26,2026-09-23,,In Progress,Low,50,None,2026-08-24,Team Lead B
+ACT-0250,QA/QC,QA-B,Quality Review,2026-06-30,2026-07-28,2026-08-05,Completed,High,100,None,2026-08-02,Team Lead E
+ACT-0251,Procurement,PROC-A,Material Status Update,2026-07-25,2026-08-09,2026-08-12,Completed,High,100,Approval Delay,2026-08-12,Team Lead E
+ACT-0252,Engineering,ENG-B,RFI Closure,2026-07-29,2026-08-04,2026-08-15,Completed,Low,100,Approval Delay,2026-08-13,Team Lead E
+ACT-0253,QA/QC,QA-A,Punch Clearance,2026-07-16,2026-08-02,2026-08-06,Completed,Low,100,Approval Delay,2026-08-02,Team Lead F
+ACT-0254,Engineering,ENG-A,RFI Closure,2026-07-10,2026-07-16,2026-07-27,Completed,Medium,100,None,2026-07-24,Team Lead B
+ACT-0255,Construction,CONST-B,Punch Clearance,2026-08-02,2026-08-25,,In Progress,Low,40,None,2026-08-24,Team Lead C
+ACT-0256,Engineering,ENG-B,Design Update,2026-08-19,2026-08-23,,On Hold,Low,40,Approval Delay,2026-08-23,Team Lead D
+ACT-0257,Procurement,PROC-A,Vendor Follow-up,2026-08-27,2026-09-14,,In Progress,Low,70,None,2026-08-30,Team Lead A
+ACT-0258,Project Controls,PC-A,Schedule Review,2026-06-05,2026-06-16,2026-06-25,Completed,Medium,100,Manpower,2026-06-21,Team Lead D
+ACT-0259,Construction,CONST-A,Field Installation,2026-07-05,2026-08-01,2026-08-13,Completed,Low,100,Manpower,2026-08-13,Team Lead D
+ACT-0260,Construction,CONST-B,Field Installation,2026-08-23,2026-09-19,,In Progress,Low,25,None,2026-08-25,Team Lead A
+ACT-0261,QA/QC,QA-A,Inspection Request,2026-06-27,2026-07-25,,In Progress,Medium,90,Manpower,2026-08-23,Team Lead B
+ACT-0262,Construction,CONST-A,Punch Clearance,2026-06-08,2026-06-29,2026-07-11,Completed,Medium,100,None,2026-07-10,Team Lead F
+ACT-0263,QA/QC,QA-B,Test Package,2026-06-18,2026-07-15,,In Progress,Low,55,Manpower,2026-08-19,Team Lead F
+ACT-0264,Procurement,PROC-A,Material Delivery,2026-08-31,2026-09-13,,Not Started,Low,5,None,2026-08-14,Team Lead F
+ACT-0265,QA/QC,QA-B,Quality Review,2026-07-28,2026-08-02,2026-07-30,Completed,Low,100,None,2026-07-27,Team Lead C
+ACT-0266,Construction,CONST-B,Site Preparation,2026-08-02,2026-08-15,2026-08-12,Completed,Low,100,Approval Delay,2026-08-09,Team Lead F
+ACT-0267,QA/QC,QA-A,Quality Review,2026-06-28,2026-07-14,,In Progress,Medium,60,Approval Delay,2026-08-19,Team Lead E
+ACT-0268,Construction,CONST-B,Progress Update,2026-08-27,2026-09-23,2026-09-01,Completed,High,100,Documentation,2026-09-01,Team Lead B
+ACT-0269,QA/QC,QA-A,Quality Review,2026-06-26,2026-07-21,,In Progress,Low,55,Documentation,2026-08-30,Team Lead C
+ACT-0270,Engineering,ENG-B,Technical Query,2026-06-11,2026-06-25,2026-06-21,Completed,Medium,100,Approval Delay,2026-06-18,Team Lead F
+ACT-0271,Construction,CONST-A,Site Preparation,2026-08-23,2026-08-28,,In Progress,High,70,None,2026-08-31,Team Lead B
+ACT-0272,Construction,CONST-B,Field Installation,2026-06-02,2026-06-27,2026-07-05,Completed,High,100,None,2026-07-04,Team Lead B
+ACT-0273,QA/QC,QA-A,Test Package,2026-07-11,2026-07-25,,In Progress,High,95,Rework,2026-08-19,Team Lead B
+ACT-0274,Construction,CONST-A,Field Installation,2026-08-07,2026-08-28,2026-08-30,Completed,Medium,100,Approval Delay,2026-08-29,Team Lead B
+ACT-0275,Procurement,PROC-A,Material Delivery,2026-06-12,2026-06-18,2026-06-25,Completed,High,100,Access Constraint,2026-06-23,Team Lead C
+ACT-0276,Project Controls,PC-A,Schedule Review,2026-08-22,2026-08-27,2026-08-30,Completed,Medium,100,Rework,2026-08-30,Team Lead F
+ACT-0277,Procurement,PROC-A,Material Status Update,2026-08-17,2026-09-05,,In Progress,Medium,85,Documentation,2026-09-01,Team Lead B
+ACT-0278,Construction,CONST-A,Punch Clearance,2026-08-03,2026-08-26,,In Progress,Medium,25,Access Constraint,2026-08-27,Team Lead B
+ACT-0279,QA/QC,QA-B,Punch Clearance,2026-08-09,2026-09-02,,In Progress,Medium,95,None,2026-08-31,Team Lead A
+ACT-0280,Engineering,ENG-A,Drawing Review,2026-06-08,2026-07-06,2026-07-17,Completed,Medium,100,None,2026-07-14,Team Lead D
+ACT-0281,Engineering,ENG-A,Technical Query,2026-06-11,2026-06-23,2026-06-22,Completed,Low,100,None,2026-06-18,Team Lead E
+ACT-0282,Construction,CONST-A,Progress Update,2026-08-29,2026-09-14,,On Hold,Low,10,Approval Delay,2026-08-20,Team Lead D
+ACT-0283,Engineering,ENG-A,Technical Query,2026-08-25,2026-09-20,,In Progress,High,25,None,2026-08-21,Team Lead A
+ACT-0284,Engineering,ENG-B,Technical Query,2026-06-22,2026-07-06,2026-07-09,Completed,Low,100,Manpower,2026-07-09,Team Lead A
+ACT-0285,QA/QC,QA-B,Punch Clearance,2026-08-07,2026-08-12,2026-08-09,Completed,Low,100,None,2026-08-06,Team Lead C
+ACT-0286,Engineering,ENG-A,Technical Query,2026-06-21,2026-07-02,,In Progress,Low,85,None,2026-08-21,Team Lead F
+ACT-0287,Construction,CONST-A,Field Installation,2026-07-02,2026-07-06,2026-07-05,Completed,Medium,100,Documentation,2026-07-04,Team Lead A
+ACT-0288,Construction,CONST-B,Punch Clearance,2026-07-12,2026-07-22,2026-07-25,Completed,Medium,100,Approval Delay,2026-07-25,Team Lead A
+ACT-0289,Construction,CONST-A,Punch Clearance,2026-06-29,2026-07-27,2026-08-03,Completed,High,100,Documentation,2026-08-03,Team Lead C
+ACT-0290,Project Controls,PC-A,Schedule Review,2026-06-12,2026-07-02,2026-07-06,Completed,Medium,100,Rework,2026-07-02,Team Lead F
+ACT-0291,Construction,CONST-B,Progress Update,2026-08-15,2026-09-02,,Not Started,Low,10,None,2026-08-22,Team Lead D
+ACT-0292,Engineering,ENG-B,Drawing Review,2026-07-13,2026-07-16,,In Progress,Medium,90,Approval Delay,2026-08-21,Team Lead B
+ACT-0293,Construction,CONST-A,Site Preparation,2026-08-02,2026-08-06,,On Hold,High,30,Approval Delay,2026-08-25,Team Lead B
+ACT-0294,Procurement,PROC-A,Material Status Update,2026-07-18,2026-08-04,,On Hold,High,10,Rework,2026-08-23,Team Lead D
+ACT-0295,Engineering,ENG-A,Design Update,2026-08-24,2026-08-31,2026-08-29,Completed,Medium,100,None,2026-08-27,Team Lead C
+ACT-0296,Engineering,ENG-A,RFI Closure,2026-08-14,2026-08-20,2026-08-29,Completed,High,100,None,2026-08-27,Team Lead E
+ACT-0297,QA/QC,QA-A,Quality Review,2026-07-10,2026-07-27,2026-07-27,Completed,High,100,Rework,2026-07-25,Team Lead F
+ACT-0298,Construction,CONST-A,Progress Update,2026-06-19,2026-06-24,2026-07-01,Completed,Low,100,None,2026-06-27,Team Lead C
+ACT-0299,QA/QC,QA-A,Test Package,2026-07-22,2026-08-08,2026-08-06,Completed,Medium,100,None,2026-08-03,Team Lead B
+ACT-0300,Engineering,ENG-A,RFI Closure,2026-06-17,2026-06-26,,In Progress,Medium,85,None,2026-08-22,Team Lead E
