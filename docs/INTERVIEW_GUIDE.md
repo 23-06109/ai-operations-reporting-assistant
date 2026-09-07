@@ -5,11 +5,12 @@
 > I built an operations reporting assistant that takes a synthetic activity
 > tracker, validates the data, calculates management KPIs, detects overdue and
 > stale work, and classifies exceptions as Critical or Warning. It then produces
-> structured outputs and a management-ready Excel report with a summary,
-> concentration analysis, full audit data, and a prioritized action register.
-> I kept all calculations deterministic and tested. The AI layer is optional and
-> only converts verified evidence into a concise briefing; it does not calculate
-> or invent business facts.
+> structured KPI, exception, and briefing files. I also included a separate Excel
+> report with a summary, concentration analysis, formula-driven activity data,
+> and an action register. The current script does not rebuild that workbook.
+> I kept the calculations deterministic and tested. The optional AI layer receives
+> calculated evidence and instructions to preserve the facts; its output still
+> requires human review.
 
 ## Five-Minute Demonstration
 

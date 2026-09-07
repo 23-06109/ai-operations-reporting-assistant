@@ -30,8 +30,10 @@ needs a repeatable weekly report that answers:
 3. Calculate management KPIs with deterministic Python logic.
 4. Classify activities using transparent Critical and Warning rules.
 5. Export structured KPI, exception, and narrative-evidence files.
-6. Package the results in a management-ready Excel workbook.
-7. Add an optional AI narrative that is restricted to verified evidence.
+6. Include a separate saved Excel management workbook; the current entry point
+   does not rebuild this file.
+7. Add an optional AI narrative prompted with calculated evidence and review
+   the generated text against the source figures.
 
 ## Exception Rules
 
@@ -81,4 +83,5 @@ completion so recurring operational causes can be analyzed reliably.
 The same workflow can be adapted for project controls, procurement tracking,
 document control, service operations, maintenance backlogs, sales operations,
 and recurring client reporting. Client-specific thresholds, categories, and
-templates can be configured without changing the core architecture.
+templates would need to be adapted and tested for each implementation. The
+current portfolio uses fixed rules and does not provide a configuration interface.
