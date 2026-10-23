@@ -7,9 +7,8 @@
 
 ## Goal
 
-Build a credible portfolio solution that reduces the manual work involved in
-validating operational trackers, calculating KPIs, identifying exceptions, and
-preparing a management briefing.
+Build a portfolio solution that validates operational trackers, calculates
+KPIs, identifies exceptions, and prepares a management briefing.
 
 ## Business Scenario
 
@@ -75,7 +74,7 @@ completion so recurring operational causes can be analyzed reliably.
 - Calculations remain deterministic and testable.
 - AI is used for communication, not arithmetic.
 - The fixed reporting snapshot makes results reproducible.
-- Synthetic data protects employer and client confidentiality.
+- The dataset is synthetic demo data, not client work.
 - Separate management, analyst, and action views support different users.
 
 ## Potential Client Adaptation

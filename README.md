@@ -1,18 +1,21 @@
 # AI-Powered Operations Reporting Assistant
 
-**Core project · Operations analytics and decision support · Synthetic data**
+Operations, project, and BPO teams often rebuild the same weekly summary from an activity tracker: planned dates, status, priority, progress, and the last update. This project produces checked KPI figures, a prioritized exception list, and a short management briefing from that kind of tracker. On the included sample, the 1 September 2026 snapshot has 300 activities, 77 overdue open items, and 34 Critical and 48 Warning exceptions.
 
-Converts an operational tracker into validated KPI calculations, prioritized exceptions, and a management briefing. A saved Excel management report makes the results easy to inspect; an optional AI integration turns calculated evidence into a narrative.
+## What you'd get
 
-**Demonstrated snapshot:** 300 activities · 77 overdue open · 34 Critical and 48 Warning exceptions.
+- A sample activity tracker, [data/operations_data.csv](data/operations_data.csv), and KPI figures for completion, average progress, overdue open work, high-priority overdue work, stale updates, and completed-work schedule variance.
+- A Critical and Warning exception list with a written reason on each flagged row, plus the management briefing at [output/management_briefing.md](output/management_briefing.md).
+- A saved Excel workbook, [output/operations_management_report.xlsx](output/operations_management_report.xlsx), with Summary, Visual Analysis, Activity Data, and Exceptions sheets, formulas, and charts. `main.py` leaves this workbook unchanged.
+- Screenshots of the [management summary](screenshots/management-summary.png) and the [exception charts](screenshots/exception-analysis.png), six automated checks in [tests/test_phase1.py](tests/test_phase1.py), a [case study](docs/CASE_STUDY.md), and a short [demo guide](docs/INTERVIEW_GUIDE.md).
 
-[Download the Excel report](output/operations_management_report.xlsx) · [Read the briefing](output/management_briefing.md) · [Case study](docs/CASE_STUDY.md)
+All data in this repo is synthetic demo/sample data, not client work.
 
 ![Management summary showing delivery KPIs and exception levels](screenshots/management-summary.png)
 
 ## Business Problem
 
-Operations teams need to identify overdue work, stale updates, and high-priority risks without rebuilding the same management summary manually. Reliable calculations must remain traceable when AI is used to draft the narrative.
+Teams need overdue work, stale updates, and high-priority risks visible in one repeatable summary. When AI is used to draft the narrative, the calculations still need to stay traceable.
 
 ## Solution
 
@@ -26,13 +29,13 @@ Python calculates the metrics and exception levels. The narrative stage receives
 
 ## Data
 
-The [300-activity dataset](data/operations_data.csv) is fully synthetic, with a fixed reporting snapshot of **1 September 2026**. Validation checks required columns, duplicate activity IDs, and progress values in the 0–100 range. Preparation trims text, parses dates, and derives overdue days, update age, and completed-work schedule variance.
+The [300-activity dataset](data/operations_data.csv) is fully synthetic, with a fixed reporting snapshot of **1 September 2026**. Validation checks required columns, duplicate activity IDs, and progress values in the 0 to 100 range. Preparation trims text, parses dates, and derives overdue days, update age, and completed-work schedule variance.
 
 ## Analysis
 
 KPIs cover completion, average progress, overdue open work, high-priority overdue work, stale updates, and completed-work schedule variance.
 
-The [exception rules](src/exception_detection.py) classify On Hold activities and High-priority work more than seven days overdue as Critical. Other qualifying activities receive Warning for 1–7 overdue days or an update older than seven days. These are project-specific rules: the exception register is not a complete list of every overdue activity.
+The [exception rules](src/exception_detection.py) classify On Hold activities and High-priority work more than seven days overdue as Critical. Other qualifying activities receive Warning for 1 to 7 overdue days or an update older than seven days. These are project-specific rules: the exception register is not a complete list of every overdue activity.
 
 ## Decision Support
 
@@ -42,7 +45,7 @@ The report supports reviewing Critical cases first, prioritizing high-priority o
 
 ## Automated Action
 
-Running `main.py` generates `kpi_summary.json`, `management_exceptions.csv`, `narrative_evidence.json`, and `management_briefing.md` in `output/`.
+Running `main.py` writes `kpi_summary.json`, `management_exceptions.csv`, `narrative_evidence.json`, and `management_briefing.md` in `output/`. The JSON and CSV files are not stored in this repository. The briefing file above is the saved copy.
 
 The included [Excel workbook](output/operations_management_report.xlsx) is a separate saved deliverable with Summary, Visual Analysis, Activity Data, and Exceptions sheets. **The current Python entry point does not rebuild that workbook.** Management follow-up remains a human action.
 
@@ -83,6 +86,8 @@ The AI path sends the evidence package to the configured service. Its instructio
 
 For a concise walkthrough, see the [interview guide](docs/INTERVIEW_GUIDE.md).
 
----
+[Portfolio overview](https://github.com/23-06109#selected-projects)
 
-[Portfolio overview](https://github.com/23-06109#selected-projects) · [LinkedIn](https://www.linkedin.com/in/jimmyjrmanalon)
+## Work with me
+
+I offer a fixed-price, async Operations Reporting Automation Sprint: you send a messy Excel/CSV tracker, I send back a clean report that rebuilds on refresh, an overdue action list and a short how-to video. No meetings. Message me on LinkedIn: https://www.linkedin.com/in/jimmyjrmanalon/
